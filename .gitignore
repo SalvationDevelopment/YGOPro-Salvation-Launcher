@@ -219,3 +219,5 @@ ygopro/*
 strings/*
 
 dn/*
+!ygopro/textures
+!ygopro/sound
